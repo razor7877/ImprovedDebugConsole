@@ -1,0 +1,18 @@
+<Mod ID="ImprovedDebugConsole">
+  <Compatible>1.11b</Compatible>
+  <Button Standard="F9" ID="openSettings">
+    <Name>
+      <EN>Open settings</EN>
+    </Name>
+    <Description>
+      <EN>Press this key to toggle the settings menu</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Improved Debug Console</EN>
+  </Name>
+  <Description>
+    <EN>Adds new features to the game's debug console and lets you configure it.</EN>
+  </Description>
+  <Version>1.1.0</Version>
+</Mod>
